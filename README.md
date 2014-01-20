@@ -9,7 +9,7 @@ Usage
 -----
 ###Clone repository
 
-   git clone https://github.com/t0nyren/landmarkpp.git
+    git clone https://github.com/t0nyren/landmarkpp.git
 
 
 ###A single image
